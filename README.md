@@ -26,8 +26,8 @@ A curated collection of resources covering all aspects of load-testing using Tsu
 - [Load Testing using Tsung](https://engineering.helpshift.com/2014/tsung/)
 - [Test the Performance and Scalability of Your Web Applications with Tsung](https://beebole.com/blog/erlang/test-performance-and-scalability-of-your-web-applications-with-tsung/)
 - [Introduction to Load Testing with Tsung @ ErlangCentral](https://erlangcentral.org/wiki/index.php?title=Introduction_to_Load_Testing_with_Tsung)
-- [Tsung: Load testing of web applications (RU)](https://habrahabr.ru/post/132459/)
-- [Load Testing with Tsung. Pros & Cons](https://getcookie.wordpress.com/2013/02/13/load-testing-with-tsung/)
+- [Tsung: Load testing of web applications](https://habrahabr.ru/post/132459/)(RU)
+- [Load Testing with Tsung: Pros & Cons](https://getcookie.wordpress.com/2013/02/13/load-testing-with-tsung/)
 - [Benchmarking Websites with ab and Tsung ](https://www.rsreese.com/benchmarking-websites-with-ab-and-tsung/)
 - [Installing and Initial setup of Tsung Load Testing CentOS](http://whatizee.blogspot.com.by/2015/01/installing-and-initial-setup-of-tsung_21.html)
 
@@ -44,12 +44,12 @@ A curated collection of resources covering all aspects of load-testing using Tsu
 ## Plugins
 
 - [Writing a Tsung plugin](http://web.archive.org/web/20150208112949/http://www.process-one.net/en/wiki/Writing_a_Tsung_plugin/)
-- [Custom Tsung plugnin (RU)](http://lin-techdet.blogspot.com.by/2013/04/tsung.html)
+- [Custom Tsung plugnin](http://lin-techdet.blogspot.com.by/2013/04/tsung.html)(RU)
 - [Tsung plugin for WebSockets](https://github.com/wulczer/tsung_ws)
 
 ## Distributed Testing
 
-- Easy distributed load test with Tsung @ Ngoc Dao: [presentation](http://www.slideshare.net/ngocdaothanh/tsung-13985127), [source code](https://github.com/ngocdaothanh/tsart)
+- [Easy distributed load test with Tsung @ Ngoc Dao](https://github.com/ngocdaothanh/tsart)
 
 ## Community
 
