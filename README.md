@@ -26,9 +26,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
 
 ## Getting Started
 
-- [Load Testing using Tsung](https://engineering.helpshift.com/2014/tsung/)
-- [Test the Performance and Scalability of Your Web Applications with Tsung](https://beebole.com/blog/erlang/test-performance-and-scalability-of-your-web-applications-with-tsung/)
-- [Introduction to Load Testing with Tsung @ ErlangCentral](https://erlangcentral.org/wiki/index.php?title=Introduction_to_Load_Testing_with_Tsung)
+- [Load Testing using Tsung](https://medium.com/helpshift-engineering/load-testing-using-tsung-ef26a662929b)
+- [Test the Performance and Scalability of Your Web Applications with Tsung](https://web.archive.org/web/20160826102121/https://beebole.com/blog/erlang/test-performance-and-scalability-of-your-web-applications-with-tsung/)
+- [Introduction to Load Testing with Tsung @ ErlangCentral](https://erlangcentral.org/wiki/Introduction_to_Load_Testing_with_Tsung)
 - [Tsung: Load testing of web applications](https://habrahabr.ru/post/132459/) *(Russian)*
 - [Load Testing with Tsung: Pros & Cons](https://getcookie.wordpress.com/2013/02/13/load-testing-with-tsung/)
 - [Benchmarking Websites with ab and Tsung ](https://www.rsreese.com/benchmarking-websites-with-ab-and-tsung/)
@@ -36,19 +36,25 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
 
 ## Tutorials
 
-- Load Testing with Tsung Quick Start @ Canonical: [part 1](http://voices.canonical.com/isd/2010/11/14/load-testing-with-tsung-quick-start/), [part 2](http://voices.canonical.com/isd/2010/12/10/tsung-quick-start-part-2/)
-- [Building a test setup for load testing with Tsung](https://hml.io/2015/08/04/loadtesting-with-tsung-and-multiple-ips/)
+- Load Testing with Tsung Quick Start @ Canonical:
+	- [part 1](http://voices.canonical.com/isd/2010/11/14/load-testing-with-tsung-quick-start/)
+	- [part 2](http://voices.canonical.com/isd/2010/12/10/tsung-quick-start-part-2/)
+- [Building a test setup for load testing with Tsung](https://hml.io/2015/08/04/loadtesting-with-tsung-and-multiple-ips/) - Multiple IPs for using different sources and destinations for web requests.
 - [Running Tsung against opentaps server](http://www.opentaps.org/docs/index.php/Running_Tsung_against_opentaps_server)
+- [Distributed load testing with Tsung](https://raymii.org/s/articles/Basic_Website_load_testing_with_Tsung.html)
+- [Building a Load Test with Tsung for a Login and Post Session with dynamic url-encoded variables](https://www.innoq.com/en/blog/building-a-load-test-with-tsung/)
 - Series about building a high-performance web cluster @ Dakini:
-	- part 1: [How to Generate Millions of HTTP Requests](http://dak1n1.com/blog/14-http-load-generate/)
-	- part 2: [Tuning Nginx for Best Performance](http://dak1n1.com/blog/12-nginx-performance-tuning/)
-	- part 3: [Building a Load-Balancing Cluster with LVS](http://dak1n1.com/blog/13-load-balancing-lvs/)
+	- [part 1](http://dak1n1.com/blog/14-http-load-generate/) - How to Generate Millions of HTTP Requests.
+	- [part 2](http://dak1n1.com/blog/12-nginx-performance-tuning/) - Tuning Nginx for Best Performance.
+	- [part 3](http://dak1n1.com/blog/13-load-balancing-lvs/) - Building a Load-Balancing Cluster with LVS.
 
 ## Plugins
 
 - [Writing a Tsung plugin](http://web.archive.org/web/20150208112949/http://www.process-one.net/en/wiki/Writing_a_Tsung_plugin/)
 - [Custom Tsung plugin](http://lin-techdet.blogspot.com.by/2013/04/tsung.html) *(Russian)*
 - [Tsung plugin for WebSockets](https://github.com/wulczer/tsung_ws)
+- [tsung-gis](https://github.com/rodo/tsung-gis) - Tsung module for load-testing GIS systems.
+
 
 ## Distributed Testing
 
