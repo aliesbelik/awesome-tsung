@@ -5,33 +5,35 @@
 Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
 
 ## Contents
-- [Common](#common)
+
+- [Official Resources](#official-resources)
 - [Getting Started](#getting-started)
 - [Tutorials](#tutorials)
 - [Plugins](#plugins)
 - [Distributed Testing](#distributed-testing)
 - [Community](#community)
-	- [Blogs](#blogs)
-	- [Forums](#forums)
-	- [Newsletters](#newsletters)
-	- [Q&A](#qa)
-- [Contributing](#contributing)
+    - [Blogs](#blogs)
+    - [Forums](#forums)
+    - [Newsletters](#newsletters)
+    - [Q&A](#qa)
 
-## Common
+
+## Official Resources
 
 - [Homepage](http://tsung.erlang-projects.org/)
 - [Downloads](http://tsung.erlang-projects.org/dist/)
 - [Documentation](http://tsung.erlang-projects.org/user_manual/index.html)
 - [Source code](https://github.com/processone/tsung/)
+- [Mailing list](https://lists.process-one.net/mailman/listinfo/tsung-users)
 
 ## Getting Started
 
 - [Load Testing using Tsung](https://medium.com/helpshift-engineering/load-testing-using-tsung-ef26a662929b)
 - [Test the Performance and Scalability of Your Web Applications with Tsung](https://web.archive.org/web/20160826102121/https://beebole.com/blog/erlang/test-performance-and-scalability-of-your-web-applications-with-tsung/)
-- [Introduction to Load Testing with Tsung @ ErlangCentral](https://erlangcentral.org/wiki/Introduction_to_Load_Testing_with_Tsung)
+- [Introduction to Load Testing with Tsung](https://erlangcentral.org/wiki/Introduction_to_Load_Testing_with_Tsung) @ ErlangCentral
 - [Tsung: Load testing of web applications](https://habrahabr.ru/post/132459/) *(Russian)*
 - [Load Testing with Tsung: Pros & Cons](https://getcookie.wordpress.com/2013/02/13/load-testing-with-tsung/)
-- [Benchmarking Websites with ab and Tsung ](https://www.rsreese.com/benchmarking-websites-with-ab-and-tsung/)
+- [Benchmarking Websites with ab and Tsung](https://www.rsreese.com/benchmarking-websites-with-ab-and-tsung/)
 - [Installing and Initial setup of Tsung Load Testing CentOS](http://whatizee.blogspot.com.by/2015/01/installing-and-initial-setup-of-tsung_21.html)
 
 ## Tutorials
@@ -73,6 +75,6 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
 - [Tsung-users Archives](http://lists.process-one.net/pipermail/tsung-users/)
 - [Tsung @ Stack Overflow](http://stackoverflow.com/questions/tagged/tsung)
 
-# Contributing
+## Contributing
 
 Contributions are welcome!
