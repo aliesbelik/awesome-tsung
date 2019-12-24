@@ -1,4 +1,5 @@
 # Awesome Tsung
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/aliesbelik/awesome-tsung/blob/master/CONTRIBUTING.md)
 
 > A curated collection of resources covering all aspects of load-testing using [Tsung](http://tsung.erlang-projects.org/).
 
@@ -76,7 +77,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
 
 ## Contributing
 
-Contributions are welcome!
+Contributions are welcome!<br />
+Please take a look at the [contribution guidelines](https://github.com/aliesbelik/awesome-tsung/blob/master/CONTRIBUTING.md) first.
 
 ## License
 
