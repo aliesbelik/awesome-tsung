@@ -21,6 +21,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
     - [Forums](#forums)
     - [Newsletters](#newsletters)
     - [Q&A](#qa)
+- [Related](#related)
+    - [Awesome Lists](#awesome-lists)
 
 
 ## Official Resources
@@ -78,6 +80,20 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
 
 - [Tsung-users Archives](http://lists.process-one.net/pipermail/tsung-users/)
 - [Tsung @ Stack Overflow](http://stackoverflow.com/questions/tagged/tsung)
+
+## Related
+
+### Awesome Lists
+
+- [Awesome](https://github.com/sindresorhus/awesome) - The original awesome list of awesome lists.
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness.
+- [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources.
+- [Awesome Testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
+- [Awesome Web Performance Metrics](https://github.com/csabapalfi/awesome-web-performance-metrics) - Metrics to help understand page speed and user experience.
+- [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization.
+- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems.
+- [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
+- [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter, open-source load-testing tool.
 
 ## Contributing
 
