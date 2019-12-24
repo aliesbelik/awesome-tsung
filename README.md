@@ -1,7 +1,11 @@
 # Awesome Tsung
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/aliesbelik/awesome-tsung/blob/master/CONTRIBUTING.md)
 
-> A curated collection of resources covering all aspects of load-testing using [Tsung](http://tsung.erlang-projects.org/).
+A curated collection of resources covering all aspects of load-testing using [Tsung](http://tsung.erlang-projects.org/) and related stuff: plugins, integrations, testing techniques, devops practicies, etc.
+
+[<img src="assets/images/tsung-logo.svg" align="right" width="260" alt="Tsung">](http://tsung.erlang-projects.org/)
+
+> [Tsung](http://tsung.erlang-projects.org/) is an open-source multi-protocol distributed load testing tool, developed in Erlang.
 
 Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
 
