@@ -39,16 +39,16 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
 ## Tutorials
 
 - Load Testing with Tsung Quick Start @ Canonical:
-	- [part 1](http://voices.canonical.com/isd/2010/11/14/load-testing-with-tsung-quick-start/)
-	- [part 2](http://voices.canonical.com/isd/2010/12/10/tsung-quick-start-part-2/)
+    - [part 1](http://voices.canonical.com/isd/2010/11/14/load-testing-with-tsung-quick-start/)
+    - [part 2](http://voices.canonical.com/isd/2010/12/10/tsung-quick-start-part-2/)
 - [Building a test setup for load testing with Tsung](https://hml.io/2015/08/04/loadtesting-with-tsung-and-multiple-ips/) - Multiple IPs for using different sources and destinations for web requests.
 - [Running Tsung against opentaps server](http://www.opentaps.org/docs/index.php/Running_Tsung_against_opentaps_server)
 - [Distributed load testing with Tsung](https://raymii.org/s/articles/Basic_Website_load_testing_with_Tsung.html)
 - [Building a Load Test with Tsung for a Login and Post Session with dynamic url-encoded variables](https://www.innoq.com/en/blog/building-a-load-test-with-tsung/)
 - Series about building a high-performance web cluster @ Dakini:
-	- [part 1](http://dak1n1.com/blog/14-http-load-generate/) - How to Generate Millions of HTTP Requests.
-	- [part 2](http://dak1n1.com/blog/12-nginx-performance-tuning/) - Tuning Nginx for Best Performance.
-	- [part 3](http://dak1n1.com/blog/13-load-balancing-lvs/) - Building a Load-Balancing Cluster with LVS.
+    - [part 1](http://dak1n1.com/blog/14-http-load-generate/) - How to Generate Millions of HTTP Requests.
+    - [part 2](http://dak1n1.com/blog/12-nginx-performance-tuning/) - Tuning Nginx for Best Performance.
+    - [part 3](http://dak1n1.com/blog/13-load-balancing-lvs/) - Building a Load-Balancing Cluster with LVS.
 
 ## Plugins
 
@@ -56,7 +56,6 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
 - [Custom Tsung plugin](http://lin-techdet.blogspot.com.by/2013/04/tsung.html) *(Russian)*
 - [Tsung plugin for WebSockets](https://github.com/wulczer/tsung_ws)
 - [tsung-gis](https://github.com/rodo/tsung-gis) - Tsung module for load-testing GIS systems.
-
 
 ## Distributed Testing
 
@@ -78,3 +77,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
 ## Contributing
 
 Contributions are welcome!
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under the <a rel="license" href="https://github.com/aliesbelik/awesome-tsung/blob/master/LICENSE.md">CC-BY-4.0</a>.
