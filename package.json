@@ -1,0 +1,25 @@
+{
+  "name": "awesome-tsung",
+  "description": "A collection of resources covering all aspects of Tsung usage for load-testing.",
+  "author": "Aliaksandr Belik",
+  "license": "CC-BY-4.0",
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "devDependencies": {
+    "awesome-lint": "*"
+  },
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "awesome-tsung",
+    "tsung",
+    "tsung-plugin",
+    "load-testing",
+    "performance-testing"
+  ],
+  "bugs": {
+    "url": "https://github.com/aliesbelik/awesome-tsung/issues"
+  },
+  "homepage": "https://github.com/aliesbelik/awesome-tsung#readme"
+}
