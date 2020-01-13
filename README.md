@@ -1,5 +1,5 @@
 # Awesome Tsung [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/aliesbelik/awesome-tsung/blob/master/CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 
 [<img src="assets/images/tsung-logo.svg" align="right" width="260" alt="Tsung">](http://tsung.erlang-projects.org/)
 
@@ -114,8 +114,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
 
 ## Contributing
 
-Contributions are welcome!<br />
-Please take a look at the [contribution guidelines](https://github.com/aliesbelik/awesome-tsung/blob/master/CONTRIBUTING.md) first.
+Contributions are welcome!\
+Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
