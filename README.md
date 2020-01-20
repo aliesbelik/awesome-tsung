@@ -7,8 +7,6 @@ A curated collection of resources covering all aspects of load-testing using [Ts
 
 > [Tsung](http://tsung.erlang-projects.org/) is an open-source multi-protocol distributed load testing tool, developed in Erlang.
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
-
 ## Contents
 
 - [Official Resources](#official-resources)
@@ -119,4 +117,4 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under the <a rel="license" href="https://github.com/aliesbelik/awesome-tsung/blob/master/LICENSE.md">CC-BY-4.0</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
