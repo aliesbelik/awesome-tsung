@@ -1,5 +1,4 @@
 # Awesome Tsung [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 
 [<img src="assets/images/tsung-logo.svg" align="right" width="260" alt="Tsung">](http://tsung.erlang-projects.org/)
 
@@ -94,7 +93,7 @@ A curated collection of resources covering all aspects of load-testing using [Ts
 ### Q&A
 
 - [Tsung-users Archives](http://lists.process-one.net/pipermail/tsung-users/)
-- [Tsung @ Stack Overflow](http://stackoverflow.com/questions/tagged/tsung)
+- [Tsung @ Stack Overflow](https://stackoverflow.com/questions/tagged/tsung)
 
 ## Related
 
@@ -112,9 +111,9 @@ A curated collection of resources covering all aspects of load-testing using [Ts
 
 ## Contributing
 
-Contributions are welcome!\
+Contributions are welcome!<br>
 Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a><br />
