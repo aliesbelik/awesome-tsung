@@ -13,8 +13,12 @@ A curated collection of resources covering all aspects of load-testing using [Ts
 - [Tutorials](#tutorials)
 - [Distributed Testing](#distributed-testing)
 - [Presentations](#presentations)
-- [Plugins](#plugins)
-- [Deployment](#deployment)
+- [Tools](#tools)
+  - [Plugins](#plugins)
+  - [Configuration Management](#configuration-management)
+  - [Distributed](#distributed)
+  - [Wrappers](#wrappers)
+  - [Miscellaneous](#miscellaneous)
 - [Tips & Tricks](#tips--tricks)
 - [Community](#community)
   - [Blogs](#blogs)
@@ -59,24 +63,42 @@ A curated collection of resources covering all aspects of load-testing using [Ts
 
 - [An introduction to distributed load testing with tsung](https://www.brightbox.com/blog/2014/11/07/distributed-load-testing-with-tsung/)
 - [Distributed load testing with Tsung](https://raymii.org/s/articles/Basic_Website_load_testing_with_Tsung.html)
+- [Easy distributed load test with Tsung](https://github.com/ngocdaothanh/tsart) - Presentation @ Ngoc Dao.
 
 ## Presentations
 
 - [Introduction to Load Testing with Tsung](https://github.com/erszcz/euc-2014) - Presentation for Erlang User Conference 2014 @ Radek Szymczyszyn.
 - [Load Testing with Tsung](https://cs291.com/slides/2019/09_tsung/) - Slides for Scalable Internet Services (CS291A) course @ Bryce Boe.
-- [Easy distributed load test with Tsung](https://github.com/ngocdaothanh/tsart) - Presentation @ Ngoc Dao.
 
-## Plugins
+## Tools
+
+### Plugins
 
 - [Writing a Tsung plugin](http://web.archive.org/web/20150208112949/http://www.process-one.net/en/wiki/Writing_a_Tsung_plugin/) - A simple tutorial on writing a Tsung plugin from official documentation.
 - [Собственный плагин tsung](http://lin-techdet.blogspot.com/2013/04/tsung.html) - Creating custom Tsung plugin *(Russian)*.
 - [tsung_ws](https://github.com/wulczer/tsung_ws) - Tsung plugin for WebSockets.
 - [tsung-gis](https://github.com/rodo/tsung-gis) - Tsung module for load-testing GIS systems.
+- [tsung_dns](https://github.com/reith/tsung_dns) - DNS testing plugin for Tsung.
 
-## Deployment
+### Configuration Management
 
 - [ansible-tsung](https://github.com/rodo/ansible-tsung) - Ansible playbooks for Tsung deployment.
 - [puppet-tsung](https://github.com/rodo/puppet-tsung) - Puppet module to install Tsung from source.
+- [tsung-helm-chart](https://github.com/timran1/tsung-helm-chart) - Helm chart to deploy Tsung.
+- [tsung-pack](https://github.com/mkornatz/tsung-pack) - Tsung load testing toolkit.
+
+### Distributed
+
+- [tsung-in-swarm](https://github.com/ffantasy/tsung-in-swarm) - Tsung distributed stress-testing in docker swarm.
+- [tsung-docker](https://github.com/ddragosd/tsung-docker) - Docker image to run Tsung distributed.
+
+### Wrappers
+
+- [shang_tsung](https://github.com/amilkr/shang_tsung) - A DSL and web wrapper for Tsung.
+
+### Miscellaneous
+
+- [curl2tsung](https://github.com/perfectayush/curl2tsung) - A simple utility to convert a curl request to Tsung's xml request.
 
 ## Tips & Tricks
 
