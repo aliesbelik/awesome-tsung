@@ -1,1 +1,8 @@
+title: Awesome Tsung
+description: Curated collection of resources on Tsung load-testing tool
+author:
+  name: Aliaksandr Belik
+  github: aliesbelik
+show_downloads: false
+google_analytics: UA-154669570-5
 theme: jekyll-theme-cayman
