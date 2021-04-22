@@ -65,6 +65,7 @@ A curated collection of resources covering all aspects of load-testing using [Ts
 
 - [Introduction to Load Testing with Tsung](https://github.com/erszcz/euc-2014) - Presentation for Erlang User Conference 2014 @ Radek Szymczyszyn.
 - [Load Testing with Tsung](https://cs291.com/slides/2019/09_tsung/) - Slides for Scalable Internet Services (CS291A) course @ Bryce Boe.
+- [Load-testing a Rails app with Tsung on AWS Elastic Beanstalk](https://www.youtube.com/watch?v=g-N3s4sBlvs) - YouTube Presentation for Scalable Internet Services (CS291A) course @ Justin Pearson
 
 ## Tools
 
