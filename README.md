@@ -1,9 +1,9 @@
 # Awesome Tsung [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+<!--lint ignore double-link-->
 [<img src="assets/images/tsung-logo.svg" align="right" width="260" alt="Tsung">](http://tsung.erlang-projects.org/)
-
+<!--lint ignore double-link-->
 A curated collection of resources covering all aspects of load-testing using [Tsung](http://tsung.erlang-projects.org/) and related stuff: plugins, integrations, testing techniques, devops practicies, etc.
-
+<!--lint ignore double-link-->
 > [Tsung](http://tsung.erlang-projects.org/) is an open-source multi-protocol distributed load testing tool, developed in Erlang.
 
 ## Contents
@@ -25,7 +25,7 @@ A curated collection of resources covering all aspects of load-testing using [Ts
   - [Awesome Lists](#awesome-lists)
 
 ## Official Resources
-
+<!--lint ignore double-link-->
 - [Homepage](http://tsung.erlang-projects.org/)
 - [Downloads](http://tsung.erlang-projects.org/dist/)
 - [Documentation](http://tsung.erlang-projects.org/user_manual/index.html)
