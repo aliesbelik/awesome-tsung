@@ -2,7 +2,7 @@
 <!--lint ignore double-link-->
 [<img src="assets/images/tsung-logo.svg" align="right" width="260" alt="Tsung">](http://tsung.erlang-projects.org/)
 <!--lint ignore double-link-->
-A curated collection of resources covering all aspects of load-testing using [Tsung](http://tsung.erlang-projects.org/) and related stuff: plugins, integrations, testing techniques, devops practicies, etc.
+A curated collection of resources covering all aspects of load testing using [Tsung](http://tsung.erlang-projects.org/) and related stuff: plugins, integrations, testing techniques, DevOps practices, etc.
 <!--lint ignore double-link-->
 > [Tsung](http://tsung.erlang-projects.org/) is an open-source multi-protocol distributed load testing tool, developed in Erlang.
 
@@ -48,7 +48,7 @@ A curated collection of resources covering all aspects of load-testing using [Ts
   - [part 2](https://web.archive.org/web/20150905162148/http://voices.canonical.com/isd/2010/12/10/tsung-quick-start-part-2/)
 - [Building a test setup for load testing with Tsung](https://hml.io/2015/08/04/loadtesting-with-tsung-and-multiple-ips/) - Multiple IPs for using different sources and destinations for web requests.
 - [Running Tsung against opentaps server](https://docs.opentaps.org/docs/index.php/Running_Tsung_against_opentaps_server)
-- [Building a Load Test with Tsung for a Login and Post Session with dynamic url-encoded variables](https://www.innoq.com/en/blog/building-a-load-test-with-tsung/) - Blogpost covers a step-by-step instruction on how to build a loadtest for a Ruby on Rails app with a login and post session and dynamic variables with Tsung.
+- [Building a Load Test with Tsung for a Login and Post Session with dynamic url-encoded variables](https://www.innoq.com/en/blog/building-a-load-test-with-tsung/) - Blogpost covers a step-by-step instruction on how to build a load test for a Ruby on Rails app with a login and post session and dynamic variables with Tsung.
 - Series about building a high-performance web cluster @ Stefanie Forrester:
   - [part 1](http://dak1n1.com/blog/14-http-load-generate/) - How to Generate Millions of HTTP Requests.
   - [part 2](http://dak1n1.com/blog/12-nginx-performance-tuning/) - Tuning Nginx for Best Performance.
@@ -67,7 +67,7 @@ A curated collection of resources covering all aspects of load-testing using [Ts
 - [Writing a Tsung plugin](http://web.archive.org/web/20150208112949/http://www.process-one.net/en/wiki/Writing_a_Tsung_plugin/) - A simple tutorial on writing a Tsung plugin from official documentation.
 - [Собственный плагин tsung](http://lin-techdet.blogspot.com/2013/04/tsung.html) - Creating custom Tsung plugin :ru:.
 - [tsung_ws](https://github.com/wulczer/tsung_ws) - Tsung plugin for WebSockets.
-- [tsung-gis](https://github.com/rodo/tsung-gis) - Tsung module for load-testing GIS systems.
+- [tsung-gis](https://github.com/rodo/tsung-gis) - Tsung module for load testing GIS systems.
 - [tsung_dns](https://github.com/reith/tsung_dns) - DNS testing plugin for Tsung.
 
 ### Configuration Management
@@ -79,7 +79,7 @@ A curated collection of resources covering all aspects of load-testing using [Ts
 
 ### Distributed
 
-- [tsung-in-swarm](https://github.com/ffantasy/tsung-in-swarm) - Tsung distributed stress-testing in docker swarm.
+- [tsung-in-swarm](https://github.com/ffantasy/tsung-in-swarm) - Tsung distributed stress testing in docker swarm.
 - [tsung-docker](https://github.com/ddragosd/tsung-docker) - Docker image to run Tsung distributed.
 
 ### Wrappers
@@ -112,8 +112,6 @@ A curated collection of resources covering all aspects of load-testing using [Ts
 
 ### Awesome Lists
 
-- [Awesome](https://github.com/sindresorhus/awesome) - The original awesome list of awesome lists.
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness.
 - [Awesome Software Quality](https://github.com/ligurio/software-quality-wiki) - A list of free software testing and verification resources.
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
 - [Awesome Page Speed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - Metrics to help understand page speed and user experience.
@@ -123,7 +121,7 @@ A curated collection of resources covering all aspects of load-testing using [Ts
 - [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
 - [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
 - [Awesome k6](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
-- [Awesome Locust](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load-testing framework written in Python.
+- [Awesome Locust](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
 
 ## Contributing
 
