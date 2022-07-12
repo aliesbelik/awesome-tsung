@@ -82,6 +82,7 @@ A curated collection of resources covering all aspects of load testing using [Ts
 
 - [tsung-in-swarm](https://github.com/ffantasy/tsung-in-swarm) - Tsung distributed stress testing in docker swarm.
 - [tsung-docker](https://github.com/ddragosd/tsung-docker) - Docker image to run Tsung distributed.
+- [tsung_rsh](https://github.com/weibomobile/tsung_rsh) - Replace SSH tunnel for Tsung clusters.
 
 ### Wrappers
 
