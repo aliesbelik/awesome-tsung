@@ -24,6 +24,7 @@ A curated collection of resources covering all aspects of load testing using [Ts
 - [Community](#community)
 - [Related](#related)
   - [Awesome Lists](#awesome-lists)
+  - [Other](#other)
 
 ## Official Resources
 <!--lint ignore double-link-->
@@ -114,18 +115,17 @@ A curated collection of resources covering all aspects of load testing using [Ts
 
 - [Awesome Software Quality](https://github.com/ligurio/software-quality-wiki) - A list of free software testing and verification resources.
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
-- [Awesome Page Speed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - Metrics to help understand page speed and user experience.
-- [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization.
-- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems.
-- [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
 - [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
 - [Awesome k6](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 - [Awesome Locust](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
 
+### Other
+
+- [How They Load Test](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
+- [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+
 ## Contributing
 
 Contributions are welcome!<br>
-Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
-
-<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a><br />
+Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
