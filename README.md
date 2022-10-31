@@ -51,9 +51,9 @@ A curated collection of resources covering all aspects of load testing using [Ts
 - [Running Tsung against opentaps server](https://docs.opentaps.org/docs/index.php/Running_Tsung_against_opentaps_server)
 - [Building a Load Test with Tsung for a Login and Post Session with dynamic url-encoded variables](https://www.innoq.com/en/blog/building-a-load-test-with-tsung/) - Blogpost covers a step-by-step instruction on how to build a load test for a Ruby on Rails app with a login and post session and dynamic variables with Tsung.
 - Series about building a high-performance web cluster @ Stefanie Forrester:
-  - [part 1](http://dak1n1.com/blog/14-http-load-generate/) - How to Generate Millions of HTTP Requests.
-  - [part 2](http://dak1n1.com/blog/12-nginx-performance-tuning/) - Tuning Nginx for Best Performance.
-  - [part 3](http://dak1n1.com/blog/13-load-balancing-lvs/) - Building a Load-Balancing Cluster with LVS.
+  - [part 1](https://web.archive.org/web/20220618165029/http://dak1n1.com/blog/14-http-load-generate/) - How to Generate Millions of HTTP Requests.
+  - [part 2](https://web.archive.org/web/20220604062758/http://dak1n1.com/blog/12-nginx-performance-tuning/) - Tuning Nginx for Best Performance.
+  - [part 3](https://web.archive.org/web/20220517114746/http://dak1n1.com/blog/13-load-balancing-lvs/) - Building a Load-Balancing Cluster with LVS.
 
 ## Distributed Testing
 
