@@ -40,14 +40,14 @@ A curated collection of resources covering all aspects of load testing using [Ts
 - [Tsung: Нагрузочное тестирование Web-приложений](https://habr.com/ru/articles/132459/) - Tsung: Load testing of web applications :ru:.
 - [Load Testing with Tsung: Pros & Cons](https://getcookie.wordpress.com/2013/02/13/load-testing-with-tsung/)
 - [Benchmarking Websites with ab and Tsung](https://www.rsreese.com/benchmarking-websites-with-ab-and-tsung/)
-- [Installing and Initial setup of Tsung Load Testing CentOS](http://whatizee.blogspot.com/2015/01/installing-and-initial-setup-of-tsung_21.html)
+- [Installing and Initial setup of Tsung Load Testing CentOS](https://whatizee.blogspot.com/2015/01/installing-and-initial-setup-of-tsung_21.html)
 
 ## Tutorials
 
 - Load Testing with Tsung Quick Start @ Canonical:
   - [part 1](https://web.archive.org/web/20150905161702/http://voices.canonical.com/isd/2010/11/14/load-testing-with-tsung-quick-start/)
   - [part 2](https://web.archive.org/web/20150905162148/http://voices.canonical.com/isd/2010/12/10/tsung-quick-start-part-2/)
-- [Building a test setup for load testing with Tsung](https://hml.io/2015/08/04/loadtesting-with-tsung-and-multiple-ips/) - Multiple IPs for using different sources and destinations for web requests.
+- [Building a test setup for load testing with Tsung](https://gist.github.com/aliesbelik/6c3101df12b1b35380aa1cb6788bdecf) - Multiple IPs for using different sources and destinations for web requests.
 - [Building a Load Test with Tsung for a Login and Post Session with dynamic url-encoded variables](https://www.innoq.com/en/blog/2018/10/building-a-load-test-with-tsung/) - Blogpost covers a step-by-step instruction on how to build a load test for a Ruby on Rails app with a login and post session and dynamic variables with Tsung.
 - Series about building a high-performance web cluster @ Stefanie Forrester:
   - [part 1](https://web.archive.org/web/20220618165029/http://dak1n1.com/blog/14-http-load-generate/) - How to Generate Millions of HTTP Requests.
@@ -64,8 +64,8 @@ A curated collection of resources covering all aspects of load testing using [Ts
 
 ### Plugins
 
-- [Writing a Tsung plugin](http://web.archive.org/web/20150208112949/http://www.process-one.net/en/wiki/Writing_a_Tsung_plugin/) - A simple tutorial on writing a Tsung plugin from official documentation.
-- [Собственный плагин tsung](http://lin-techdet.blogspot.com/2013/04/tsung.html) - Creating custom Tsung plugin :ru:.
+- [Writing a Tsung plugin](https://web.archive.org/web/20150208112949/http://www.process-one.net/en/wiki/Writing_a_Tsung_plugin/) - A simple tutorial on writing a Tsung plugin from official documentation.
+- [Собственный плагин tsung](https://lin-techdet.blogspot.com/2013/04/tsung.html) - Creating custom Tsung plugin :ru:.
 - [tsung_ws](https://github.com/wulczer/tsung_ws) - Tsung plugin for WebSockets.
 - [tsung-gis](https://github.com/rodo/tsung-gis) - Tsung module for load testing GIS systems.
 - [tsung_dns](https://github.com/reith/tsung_dns) - DNS testing plugin for Tsung.
