@@ -1,5 +1,5 @@
 # Awesome Tsung [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<!--lint ignore double-link-->
+<!--lint ignore double-link match-punctuation -->
 [<img src="assets/images/tsung-logo.svg" align="right" width="260" alt="Tsung">](http://tsung.erlang-projects.org/)
 <!--lint ignore double-link-->
 A curated collection of resources covering all aspects of load testing using [Tsung](http://tsung.erlang-projects.org/) and related stuff: plugins, integrations, testing techniques, DevOps practices, etc.
@@ -79,7 +79,7 @@ A curated collection of resources covering all aspects of load testing using [Ts
 
 ### Distributed
 
-- [tsung-in-swarm](https://github.com/ffantasy/tsung-in-swarm) - Tsung distributed stress testing in docker swarm.
+- [tsung-in-swarm](https://github.com/ffantasy/tsung-in-swarm) - Tsung distributed stress testing in Docker swarm.
 - [tsung-docker](https://github.com/ddragosd/tsung-docker) - Docker image to run Tsung distributed.
 - [tsung_rsh](https://github.com/weibomobile/tsung_rsh) - Replace SSH tunnel for Tsung clusters.
 - [tsung-in-kubernetes](https://github.com/kubeup/tsung-in-kubernetes) - Running Tsung in Kubernetes.
