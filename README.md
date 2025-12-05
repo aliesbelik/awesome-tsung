@@ -64,7 +64,7 @@ A curated collection of resources covering all aspects of load testing using [Ts
 
 ### Plugins
 
-- [Writing a Tsung plugin](https://web.archive.org/web/20150208112949/http://www.process-one.net/en/wiki/Writing_a_Tsung_plugin/) - A simple tutorial on writing a Tsung plugin from official documentation.
+- [Writing a Tsung plugin](https://gist.github.com/mremond/a5c1c25aad11dfc40ae7b4f18c000942) - A simple tutorial on writing a Tsung plugin from official documentation.
 - [Собственный плагин tsung](https://lin-techdet.blogspot.com/2013/04/tsung.html) - Creating custom Tsung plugin :ru:.
 - [tsung_ws](https://github.com/wulczer/tsung_ws) - Tsung plugin for WebSockets.
 - [tsung-gis](https://github.com/rodo/tsung-gis) - Tsung module for load testing GIS systems.
