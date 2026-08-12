@@ -53,6 +53,7 @@ A curated collection of resources covering all aspects of load testing using [Ts
   - [part 1](https://web.archive.org/web/20220618165029/http://dak1n1.com/blog/14-http-load-generate/) - How to Generate Millions of HTTP Requests.
   - [part 2](https://web.archive.org/web/20220604062758/http://dak1n1.com/blog/12-nginx-performance-tuning/) - Tuning Nginx for Best Performance.
   - [part 3](https://web.archive.org/web/20220517114746/http://dak1n1.com/blog/13-load-balancing-lvs/) - Building a Load-Balancing Cluster with LVS.
+- [SAP Commerce Cloud Performance Testing Tools: Tsung](https://hybrismart.com/2020/02/28/part-2-performance-testing-tools-tsung/) - A practical walkthrough of using Tsung for high-volume SAP Commerce Cloud performance testing, including configuration, load phases, and result analysis.
 
 ## Distributed Testing
 
