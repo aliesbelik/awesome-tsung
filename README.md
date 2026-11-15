@@ -47,7 +47,7 @@ A curated collection of resources covering all aspects of load testing using [Ts
 - Load Testing with Tsung Quick Start @ Canonical:
   - [part 1](https://web.archive.org/web/20150905161702/http://voices.canonical.com/isd/2010/11/14/load-testing-with-tsung-quick-start/)
   - [part 2](https://web.archive.org/web/20150905162148/http://voices.canonical.com/isd/2010/12/10/tsung-quick-start-part-2/)
-- [Building a test setup for load testing with Tsung](https://gist.github.com/aliesbelik/6c3101df12b1b35380aa1cb6788bdecf) - Multiple IPs for using different sources and destinations for web requests.
+- [Building a test setup for load testing with Tsung](https://hml.io/archive/loadtesting-with-tsung-and-multiple-ips/) - Multiple IPs for using different sources and destinations for web requests.
 - [Building a Load Test with Tsung for a Login and Post Session with dynamic url-encoded variables](https://www.innoq.com/en/blog/2018/10/building-a-load-test-with-tsung/) - Blogpost covers a step-by-step instruction on how to build a load test for a Ruby on Rails app with a login and post session and dynamic variables with Tsung.
 - Series about building a high-performance web cluster @ Stefanie Forrester:
   - [part 1](https://web.archive.org/web/20220618165029/http://dak1n1.com/blog/14-http-load-generate/) - How to Generate Millions of HTTP Requests.
@@ -58,7 +58,7 @@ A curated collection of resources covering all aspects of load testing using [Ts
 ## Distributed Testing
 
 - [An introduction to distributed load testing with tsung](https://www.brightbox.com/blog/2014/11/07/distributed-load-testing-with-tsung/)
-- [Distributed load testing with Tsung](https://raymii.org/s/articles/Basic_Website_load_testing_with_Tsung.html)
+- [Distributed load testing with Tsung](https://web.archive.org/web/20261109062613/https://raymii.org/s/articles/Basic_Website_load_testing_with_Tsung.html)
 - [Easy distributed load test with Tsung](https://github.com/ngocdaothanh/tsart) - Presentation @ Ngoc Dao.
 
 ## Tools
